@@ -1,0 +1,97 @@
+{'df1':          0                         1   
+0              For each convenience   \
+1                            MONDAY    
+2  WEEK 1   3 Entrée 1: 1 Entrée 2:    
+3  WEEK 2   3 Entrée 1: 1 Entrée 2:    
+4  WEEK 3   4 Entrée 1: 1 Entrée 2:    
+5  WEEK 4   4 Entrée 1: 1 Entrée 2:    
+6  WEEK 5       Entrée 1: Entrée 2:    
+7  WEEK 6       Entrée 1: Entrée 2:    
+
+                                              2   
+0  of the preparation = 1; minimal preparation   \
+1                                      TUESDAY    
+2                      3 Entrée 1: 1 Entrée 2:    
+3                      3 Entrée 1: 1 Entrée 2:    
+4                      4 Entrée 1: 1 Entrée 2:    
+5                      3 Entrée 1: 2 Entrée 2:    
+6                          Entrée 1: Entrée 2:    
+7                          Entrée 1: Entrée 2:    
+
+                                            3   
+0  methods record the = 2; fast scratch = 3;   \
+1                                  WEDNESDAY    
+2                    3 Entrée 1: 1 Entrée 2:    
+3                    3 Entrée 1: 1 Entrée 2:    
+4                    4 Entrée 1: 1 Entrée 2:    
+5                    3 Entrée 1: 1 Entrée 2:    
+6                        Entrée 1: Entrée 2:    
+7                        Entrée 1: Entrée 2:    
+
+                                              4                         5  
+0  corresponding number: made from scratch = 4                             
+1                                     THURSDAY                    FRIDAY   
+2                      3 Entrée 1: 1 Entrée 2:   3 Entrée 1: 1 Entrée 2:   
+3                      3 Entrée 1: 1 Entrée 2:   3 Entrée 1: 1 Entrée 2:   
+4                      3 Entrée 1: 2 Entrée 2:   3 Entrée 1: 1 Entrée 2:   
+5                      3 Entrée 1: 1 Entrée 2:   3 Entrée 1: 1 Entrée 2:   
+6                          Entrée 1: Entrée 2:       Entrée 1: Entrée 2:   
+7                          Entrée 1: Entrée 2:       Entrée 1: Entrée 2:   , 'df2':                       0              1                 2   
+0                        What are the   top 3 accepted?   \
+1              Entrees     Vegetables            Fruits    
+2         Cheese Pizza          Fries      Strawberries    
+3  chicken and waffles       Broccoli       blueberries    
+4                Asian        Carrots             apple    
+
+                         3  
+0                           
+1  Whole Grain Rich Foods   
+2                   Pizza   
+3          Bread products   
+4                           , 'df3':                0                                                  1
+0  Grade Levels   Frequency (everyday, several times per week, r...
+1            NO                                                    
+2                                                                  
+3                                                                  
+4                                                                  , 'df4':                0                                                  1
+0  Grade Levels   Frequency (everyday, several times per week, r...
+1           1-4                             several times per week 
+2                                                                  
+3                                                                  
+4                                                                  , 'df5':                                                     0   
+0          1. Review the scorecard before beginning.   \
+1   2. Observe a lunch period. Check off statement...   
+2   3. Ask other school nutrition staff, teachers,...   
+3                                     FOCUS ON FRUIT    
+4   NOT_SELECTED, SELECTED, NOT_SELECTED, NOT_SELE...   
+5                                VARY THE VEGETABLES    
+6   SELECTED, SELECTED, SELECTED, SELECTED, SELECT...   
+7                                HIGHLIGHT THE SALAD    
+8   SELECTED, SELECTED, SELECTED, Pre-packaged sal...   
+9                               MOVE MORE WHITE MILK    
+10  SELECTED, NOT_SELECTED, NOT_SELECTED, SELECTED...   
+11                          BOOST REIMBURSABLE MEALS    
+12  SELECTED, Cafeteria staff politely prompt stud...   
+13  SELECTED, One entrée is identified as the feat...   
+14  SELECTED, Creative, descriptive names are used...   
+15  NOT_SELECTED, One reimbursable meal is identif...   
+16  NOT_SELECTED, The combo meal of the day or fea...   
+
+                                                    1  
+0                                4. Tally the score.   
+1   5. Discuss the results with stakeholders. Choo...  
+2                              SmarterLunchrooms.org   
+3                                                      
+4   SELECTED, NOT_SELECTED, NOT_SELECTED, At least...  
+5                                                      
+6   NOT_SELECTED, NOT_SELECTED, NOT_SELECTED, NOT_...  
+7                                                      
+8   NOT_SELECTED, Pre-packaged salads or salad bar...  
+9                                                      
+10  NOT_SELECTED, 1% or non-fat white milk is iden...  
+11                                                     
+12  NOT_SELECTED, NOT_SELECTED, A (reimbursable) c...  
+13  NOT_SELECTED, service line (e.g., a sign that ...  
+14  NOT_SELECTED, SELECTED, Students must use cash...  
+15  NOT_SELECTED, items if available.* Students ar...  
+16               Reimbursable Meals Subtotal 4 of 11   }
