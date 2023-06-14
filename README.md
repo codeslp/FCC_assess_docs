@@ -1,6 +1,4 @@
-# Insights from Unstructured Data
-
-## Creating a pipeline using AWS Textract to extract tables from PDFs
+# Creating a pipeline using AWS Step Functions and AWS Textract to extract tables from PDFs
 
 A culinary consulting company has been training school nutrition staff and administrators in the public schools of Oklahoma for several years now. The trainers recorded pre- and post-assessment data and stored it in PDFs and stored multiple years with roughly 12–20 different schools each year. They would like some insights into this data. There are 4 specific tables that they would like to be able to glean insights from that appear in each of these several dozen documents.
 
