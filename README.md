@@ -14,6 +14,6 @@ Things I've learned about Lambdas in doing this project: https://medium.com/@bri
 
 
 ## Visualizations of derived data in Tableau:
-https://public.tableau.com/app/profile/brian.farish/viz/Cooking-for-Kids-Training-McAlester-2018-2023/CookingforKids-McAlester-2018-23
+Dashboard I made with some of the data from these: https://public.tableau.com/app/profile/brian.farish/viz/Cooking-for-Kids-Training-McAlester-2018-2023/CookingforKids-McAlester-2018-23
 
 
