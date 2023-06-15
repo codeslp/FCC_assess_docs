@@ -4,6 +4,8 @@ A culinary consulting company has been training school nutrition staff and admin
 
 I used AWS Textract, which is a machine learning tool that can extract data, while maintaining table structures. I used AWS Step Functions to establish the pipeline flow of the ETL process, Python Lambda functions to do the transformations, S3 as my data lake, and Tableau for visualizations.
 
+## AWS architecture drawing and table ERD: 
+https://tinyurl.com/47pau7nu
 
 ## Blog posts about this project:
 Things I've learned about Step Functions in doing this project: https://medium.com/@brian.farish/aws-step-functions-for-data-pipelines-7fc35e080ad9
